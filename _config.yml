@@ -11,3 +11,4 @@ author:
 
 # theme: hey-world
 remote_theme: hey-world
+permalink: /thoughts/:year/:month/:day/:title
