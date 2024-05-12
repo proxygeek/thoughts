@@ -8,4 +8,5 @@ author:
   name: Marcus Heng
   avatar: "images/logo.jpg"
 
-theme: hey-world
+# theme: hey-world
+remote_theme: hey-world
