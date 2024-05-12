@@ -5,7 +5,7 @@ This theme is inspired by Hey by Basecamp. They have recently introduced https:/
 This is what this theme looks like for a jekyll project:
 ![sample](./sample.png)
 
-Or you can visit [my blog](https://marcushwz.netlify.app/) where I have hosted it on Netlify using this theme.
+Or you can visit [Marcus' blog](https://marcushwz.netlify.app/) where "I have hosted it on Netlify using this theme."
 
 ## Usage
 
