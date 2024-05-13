@@ -3,12 +3,12 @@ logo: "images/logo.jpg" # You can add own logo image.
 #baseurl: "/" # The subpath of your site, e.g. /blog
 baseurl: "/thoughts" # The subpath of your site, e.g. /blog
 # Uncomment to enable subscribe form
-; mailchimp: "" # put in your mailchimp audience list url
+mailchimp: "" # put in your mailchimp audience list url
 # Author Settings
 author:
   name: Amit
   avatar: "images/logo.jpg"
 
 # theme: hey-world
-remote_theme: hey-world
+# remote_theme: hey-world
 permalink: /thoughts/:year/:month/:day/:title
