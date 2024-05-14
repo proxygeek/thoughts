@@ -19,6 +19,6 @@ author:
 #     generating links to posts at nextfive.xyz/thoughts/post and actual page I cannot find
 # ------
 # Setting baseurl to "/thoughts" but permalink to "/:title" results in 
-#     generating links to posts at nextfive.xyz/ and actual page at 
+#     generating links to posts at https://www.nextfive.xyz/another and actual page at https://www.nextfive.xyz/thoughts/post
 
-permalink: /:title
+permalink: /thoughts/:title
