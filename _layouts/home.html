@@ -12,7 +12,8 @@ post in site.posts %}
       {% if post.description %}{{ post.description }}{% else %}{{ post.content |
       strip_html | truncate: 300 }}{% endif %}
     </p>
-    <a class="card-link" href="{{post.url}}"></a>
+    <!--a class="card-link" href="{{post.url}}"></a-->
+    <a class="card-link" href="{{site.baseurl}}{{post.url}}"></a>
     <div class="read-more-section">
       <span class="read-more-button">Read more</span>
     </div>
