@@ -7,7 +7,7 @@ mailchimp: "" # put in your mailchimp audience list url
 # Author Settings
 author:
   name: Amit
-  avatar: "images/logo.jpg"
+  avatar: "images/logo-profile.jpg"
 
 # theme: hey-world
 # remote_theme: hey-world
