@@ -11,5 +11,7 @@ author:
 
 # theme: hey-world
 # remote_theme: hey-world
+# Not having any permalink config here switches to default, 
+#    generating links to posts at nextfive.xyz/yyyy/mm/dd/post.html while the actual pages are at nextfive.xyz/thoughts/yyyy/mm/dd/post.html
 # permalink: /thoughts/:year/:month/:day/:title
 # permalink: /thoughts/:title
